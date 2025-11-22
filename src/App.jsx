@@ -126,8 +126,8 @@ const GlobalStyles = () => (
 
     /* --- Main App Layout --- */
     .app-container {
-      height: 100vh;
-      width: 1520px;
+      height: auto;
+      width: auto;
       display: flex;
       flex-direction: column;
     }
