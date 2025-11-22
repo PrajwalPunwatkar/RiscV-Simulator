@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useReducer, createContext, useContext, useRef, useCallback } from 'react';
-import footer from './footer';
 
 // --- SVG Icons for UI ---
 const PlayIcon = (props) => (
